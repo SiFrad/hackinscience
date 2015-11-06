@@ -1,2 +1,2 @@
 n = 42
-print(["Hello World", n])
+print(["Hello world", n])
