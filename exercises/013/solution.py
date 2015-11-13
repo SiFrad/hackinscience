@@ -1,3 +1,3 @@
-if 2 + 2 < 5:
-    print(True)
+print(2 + 2 != 5)
+
 
