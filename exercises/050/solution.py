@@ -1,4 +1,4 @@
-f = range(0, 1001)
+f = range(0, 1000)
 s = 0
 for i in f:
     if i % 3 == 0:
