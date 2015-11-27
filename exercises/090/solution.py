@@ -1,5 +1,5 @@
 import sys
 
-t = list(enumerate(sys.argv))
-for i in range(len(t)):
-    print(t[i])
+for i in range(len(sys.argv)):
+    print(i, sys.argv[i])
+
